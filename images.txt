@@ -1,2 +1,2 @@
-atlassian/jira-software
+atlassian/jira-software:9.12.6
 camunda/camunda-bpm-platform
