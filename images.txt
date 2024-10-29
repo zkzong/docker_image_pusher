@@ -1,4 +1,5 @@
-mysql:8.0.40/8.0.31
+mysql:8.0.31
+mysql:8.0.40
 xuxueli/xxl-job-admin:2.4.0
 nacos/nacos-server:v2.4.3
 
