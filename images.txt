@@ -10,7 +10,7 @@ nacos/nacos-server:v2.2.2
 nacos/nacos-server:v2.4.3
 nobodyiam/apollo-quick-start
 
-camunda-bpm-platform:run-7.21.0
+camunda/camunda-bpm-platform:run-7.22.0
 
 alpine:latest
 
