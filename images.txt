@@ -6,6 +6,7 @@ mongo:4.0.13-xenial
 elasticsearch:7.6.1
 
 xuxueli/xxl-job-admin:2.4.0
+nacos/nacos-server:v2.2.2
 nacos/nacos-server:v2.4.3
 nobodyiam/apollo-quick-start
 
