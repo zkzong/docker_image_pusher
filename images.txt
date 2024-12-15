@@ -4,6 +4,7 @@ mysql:8.0.31
 mysql:8.0.40
 # canal
 canal/osbase:v3-amd64
+canal/osadmin:v3-amd64
 
 mongo:4.0.13-xenial
 elasticsearch:7.6.1
