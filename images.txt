@@ -15,6 +15,7 @@ nacos/nacos-server:v2.4.3
 nobodyiam/apollo-quick-start
 
 wurstmeister/zookeeper
+openjdk:11-jre-slim
 
 camunda/camunda-bpm-platform:run-7.22.0
 
