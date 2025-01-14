@@ -21,6 +21,7 @@ confluentinc/cp-kafka-rest:7.3.2
 confluentinc/cp-kafka-connect:7.3.2
 confluentinc/cp-ksqldb-server:7.3.2
 postgres:14
+conduktor/conduktor-console:1.26.0
 
 camunda/camunda-bpm-platform:run-7.22.0
 
