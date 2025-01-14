@@ -14,6 +14,8 @@ nacos/nacos-server:v2.2.2
 nacos/nacos-server:v2.4.3
 nobodyiam/apollo-quick-start
 
+wurstmeister/zookeeper
+
 camunda/camunda-bpm-platform:run-7.22.0
 
 alpine:latest
