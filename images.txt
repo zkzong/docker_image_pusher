@@ -20,6 +20,7 @@ confluentinc/cp-schema-registry:7.3.2
 confluentinc/cp-kafka-rest:7.3.2
 confluentinc/cp-kafka-connect:7.3.2
 confluentinc/cp-ksqldb-server:7.3.2
+postgres:14
 
 camunda/camunda-bpm-platform:run-7.22.0
 
