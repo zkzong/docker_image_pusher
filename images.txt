@@ -14,8 +14,12 @@ nacos/nacos-server:v2.2.2
 nacos/nacos-server:v2.4.3
 nobodyiam/apollo-quick-start
 
-wurstmeister/zookeeper
-openjdk:11-jre-slim
+confluentinc/cp-zookeeper:7.3.2
+confluentinc/cp-kafka:7.3.2
+confluentinc/cp-schema-registry:7.3.2
+confluentinc/cp-kafka-rest:7.3.2
+confluentinc/cp-kafka-connect:7.3.2
+confluentinc/cp-ksqldb-server:7.3.2
 
 camunda/camunda-bpm-platform:run-7.22.0
 
