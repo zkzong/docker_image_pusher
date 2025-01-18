@@ -9,7 +9,7 @@ canal/osadmin:v3-amd64
 
 mongo:4.0.13-xenial
 docker.elastic.co/elasticsearch/elasticsearch:8.10.4
-docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.17.0
+docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 
 xuxueli/xxl-job-admin:2.4.0
 nacos/nacos-server:v2.2.2
