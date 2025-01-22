@@ -3,6 +3,10 @@ mysql:5.7
 mysql:8.0
 mysql:8.0.31
 mysql:8.0.40
+
+# redis
+redis:7.4.2
+
 # canal
 canal/osbase:v3-amd64
 canal/osadmin:v3-amd64
