@@ -24,6 +24,7 @@ nobodyiam/apollo-quick-start
 apache/kafka:3.9.0
 
 camunda/camunda-bpm-platform:run-7.22.0
+flowable/all-in-one:6.5.0
 
 alpine:latest
 
