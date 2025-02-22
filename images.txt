@@ -3,6 +3,7 @@ mysql:5.7
 mysql:8.0
 mysql:8.0.31
 mysql:8.0.40
+mysql:8.0.41
 
 # redis
 redis:7.4.2
