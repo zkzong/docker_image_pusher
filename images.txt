@@ -5,6 +5,8 @@ mysql:8.0.31
 mysql:8.0.40
 mysql:8.0.41
 
+postgres:12.20
+
 # redis
 redis:7.4.2
 
