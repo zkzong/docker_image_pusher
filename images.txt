@@ -15,6 +15,7 @@ canal/osbase:v3-amd64
 canal/osadmin:v3-amd64
 
 mongo:4.0.13-xenial
+mongodb/mongodb-community-server:latest
 docker.elastic.co/elasticsearch/elasticsearch:8.10.4
 docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 
