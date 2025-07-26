@@ -20,6 +20,7 @@ docker.elastic.co/elasticsearch/elasticsearch:8.10.4
 docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 
 seataio/seata-server:1.5.0
+seataio/seata-server:1.4.2
 
 xuxueli/xxl-job-admin:2.4.0
 nacos/nacos-server:v2.2.2
